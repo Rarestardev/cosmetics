@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">فروشگاه لوازم آرایشی و بهداشتی</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="introduction">معرفی محصول :</string>
+    <string name="property">ویژگی ها :</string>
+    <string name="suitable">مناسب برای :</string>
+    <string name="how_to_use">نحوه استفاده :</string>
+    <string name="compounds">ترکیبات :</string>
+    <string name="warning">هشدار مصرف :</string>
+    <string name="cart">اضافه به لیست خرید</string>
+    <string name="editText_Search_hint">جست و جو …</string>
+    <string name="product_face">محصولات بهداشتی صورت</string>
+    <string name="product_hair">محصولات بهداشتی مو</string>
+    <string name="product_body">محصولات بهداشتی بدن</string>
+    <string name="product_makeUp">لوازم آرایشی</string>
+    <string name="best_sellers">بهترین فروشنگان :</string>
+    <string name="more">نمایش بیشتر</string>
+    <string name="best_brands">بهترین برند ها :</string>
+    <string name="makeUp">لوازم آرایشی :</string>
+    <string name="productFace">محصولات بهداشتی صورت :</string>
+    <string name="productHair">محصولات بهداشتی مو :</string>
+    <string name="productBody">محصولات بهداشتی بدن :</string>
+
+    <string name="menu_brands">برند ها</string>
+    <string name="menu_sellers">فروشندگان</string>
+    <string name="menu_category">دسته بندی</string>
+    <string name="menu_cosmetics">لوازم آرایشی</string>
+    <string name="menu_face">محصولات بهداشتی صورت</string>
+    <string name="menu_hair">محصولات بهداشتی مو</string>
+    <string name="menu_body">محصولات بهداشتی بدن</string>
+    <string name="menu_favorite">ذخیره ها</string>
+    <string name="menu_setting">تنظیمات</string>
+    <string name="menu_contactUs">ارتباط با ما</string>
+    <string name="menu_exit">خروج از برنامه</string>
+    <string name="user_info">مشخصات کاربر</string>
+    <string name="user_changePass">عوض کردن گذر واژه</string>
+    <string name="logout">خروج از حساب</string>
+    <string name="my_acc">rarestar.dev@gmail.com</string>
+    <string name="register">ساخت حساب کاربری</string>
+    <string name="login">ورود</string>
+    <string name="desc_login_register">برای ورود یا ساخت حساب کاربری کلیک کنید.</string>
+    <string name="username">نام کاربری خود را وارد کنید …</string>
+    <string name="password">گذر واژه را وارد کنید</string>
+    <string name="username_email">نام کاربری خود را وارد کنید…</string>
+    <string name="show_hide_pass">نمایش گذر واژه</string>
+    <string name="register_message">اگر حساب کاربری ندارید کلیک کنید!</string>
+    <string name="FirstName">نام:</string>
+    <string name="LastName">نام خانوادگی:</string>
+    <string name="email">ایمیل خود را وارد کنید…</string>
+    <string name="RePassword">تکرار گذر واژه</string>
+    <string name="City">شهر:</string>
+    <string name="State">استان:</string>
+    <string name="Address">آدرس :</string>
+    <string name="phone_number">شماره تلفن :</string>
+    <string name="login_message">اگر حساب کاربری دارید کلیک کنید!</string>
+    <string name="title_activity_settings">Settings_Activity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="usernameInfo">نام کاربری :</string>
+    <string name="emailInfo">ایمیل :</string>
+    <string name="catFragmentMessage">هیچ موردی یافت نشد!</string>
+    <string name="theme_mode">حالت نمایش</string>
+    <string name="lightMode">حالت روشن</string>
+    <string name="nightMode">حالت شب</string>
+    <string name="notify">اعلان ها</string>
+    <string name="show_notify">نمایش اعلان ها</string>
+    <string name="hide_notify">عدم نمایش اعلان ها</string>
+</resources>

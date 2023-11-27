@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#694F8D</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#131212</color>
+    <color name="Activity">#0E0E0E</color>
+    <color name="bottom_navigation_productActivity">#CB101010</color>
+    <color name="cardView_bg">#E83C76</color>
+    <color name="search_bg">#A1A0A0</color>
+    <color name="cardView_hair">#CB2ECBDF</color>
+    <color name="cardView_face">#C93700B3</color>
+    <color name="cardView_body">#CCFB1E51</color>
+    <color name="cardView_makeUp">#CCF35C2C</color>
+    <color name="tabs_color">#DDDCDC</color>
+    <color name="bottom_navigation_mainActivity">#920C0C0C</color>
+    <color name="drawer">#99191919</color>
+    <color name="ripple">#E1434242</color>
+    <color name="price">#E1A50000</color>
+    <color name="likeColor_product">#BFF64C40</color>
+    <color name="profile_fragment_bg">#00030F</color>
+    <color name="Product_bg">#101010</color>
+    <color name="Dialog_bg">#D90B0A0A</color>
+    <color name="appbar">#2A000000</color>
+</resources>
